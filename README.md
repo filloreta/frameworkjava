@@ -24,3 +24,5 @@
 23. Create the RetryAnalyzer class that implements IRetryAnalyzer and add the code to count the retry after a failed test
 24. On the SuiteListener class implement the IAnnotationTransformer and its method to call the RetryAnalyzer
 25. Create the ElementFetch class
+26. Add the HomePageEvents and LoginPageEvents classes
+27. Add two new interfaces HomePageElements and LoginPageElements
